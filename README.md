@@ -1,7 +1,7 @@
 # Expense Management
 
 **Expense Management with Python (Tkinter)**  
-🧮 Simple tool for managing income and expenses with a graphical user interface
+   Simple tool for managing income and expenses with a graphical user interface
 
 ## Description
 
